@@ -21,6 +21,7 @@ int main()
     cin >> anme;
     cout << "your name is: " << anme << endl;
     int third = 30;
+    int fourth = 10;
     return 0;
 }
 
