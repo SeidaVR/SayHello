@@ -22,6 +22,7 @@ int main()
     cout << "your name is: " << anme << endl;
     int third = 30;
     int fourth = 10;
+    int fifth = 20;
     return 0;
 }
 
