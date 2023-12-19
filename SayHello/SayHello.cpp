@@ -20,6 +20,7 @@ int main()
     cout << "Please type in your name:" << endl;
     cin >> anme;
     cout << "your name is: " << anme << endl;
+    int third = 30;
     return 0;
 }
 
